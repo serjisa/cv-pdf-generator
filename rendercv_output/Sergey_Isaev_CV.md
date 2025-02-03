@@ -66,11 +66,11 @@ I'm doing a PhD in neuroscience at Igor Adameyko's lab at the Medical University
 # Publications
 
 ## Unbiased profiling of multipotency landscapes reveals spatial modulators of clonal fate biases 
-- Alek G Erickson*, ***Sergey Isaev****, Jingyan He, et al.
+- Alek G Erickson*, ***Sergey Isaev****, Jingyan He, et al. *(\*equal contribution)*
 - *[bioRxiv, 2024.11. 15.623687, 2024](https://www.biorxiv.org/content/10.1101/2024.11.15.623687.abstract)*
 
 ## Multi-omic profiling of follicular lymphoma reveals changes in tissue architecture and enhanced stromal remodeling in high-risk patients 
-- Andrea J Radtke*, Ekaterina Postovalova*, Arina Varlamova, ..., ***Sergey Isaev***, et al.
+- Andrea J Radtke*, Ekaterina Postovalova*, Arina Varlamova, ..., ***Sergey Isaev***, et al. *(\*equal contribution)*
 - *[Cancer cell 42 (3), 444-463. e10, 2024](https://www.cell.com/cancer-cell/abstract/S1535-6108%2824%2900045-X)*
 
 ## Complex analysis of single-cell RNA sequencing data 

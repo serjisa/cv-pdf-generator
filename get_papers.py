@@ -1,6 +1,18 @@
 import argparse
 from scholarly import scholarly
 import numpy as np
+import yaml
+
+def match_name(name, record):
+    """
+    We have to identify author's name in complicated cases,
+    e.g. Sergey Isaev <-> Sergey V. Isaev*
+    """
+    name_elements = name.split(" ")
+    records = [i.strip("*") for i in record.split(" ")]
+    return not bool(sum([
+        not(name_element in records) for name_element in name_elements
+    ]))
 
 parser = argparse.ArgumentParser(prog="Script that modifies rendercv .yaml schema via adding publications there")
 
@@ -10,16 +22,23 @@ parser.add_argument("-n", "--name", help="Author's name",
                     default="Sergey Isaev")
 parser.add_argument("-id", "--google_scholar", help="Google Scholar ID",
                     default="fZlONS4AAAAJ")
+parser.add_argument("-na", "--n_authors", help="Number of leading authors",
+                    default=3)
+
 
 args = parser.parse_args()
 
 filename = args.file
-author_name = args.name.split(" ")
+with open(filename) as f:
+    yaml_file = yaml.safe_load(f)
+
+author_name = args.name
+n_authors = args.n_authors
 author_id = args.google_scholar
 author = scholarly.search_author_id(author_id, sortby="year")
 author = scholarly.fill(author, sections=["publications"], sortby="year")
 
-s = " " * 4 + "publications:\n"
+publications = []
 for pub in author["publications"]:
     pub_filled = scholarly.fill(pub)
     
@@ -30,37 +49,26 @@ for pub in author["publications"]:
     url = pub_filled["pub_url"]
     url = url.replace("(", "%28").replace(")", "%29")
     
-    position = np.argwhere([((author_name[0] in s) and (author_name[1] in s)) for s in authors])[0][0] + 1
+    position = np.argwhere([match_name(author_name, s) for s in authors])[0][0] + 1
     name = authors[position - 1]
-    if position > 4:
-        authors_list = authors[:3] + ["...", name]
-    elif position == 4:
-        authors_list = authors[:4]
+    if position > (n_authors + 1):
+        authors_list = authors[:n_authors] + ["...", name]
+    elif position == (n_authors + 1):
+        authors_list = authors[:(n_authors + 1)]
     else:
-        authors_list = authors[:3]
+        authors_list = authors[:n_authors]
     if (position < len(authors)):
         authors_list += ["et al."]
     authors_list = [i if i != name else f"***{i}***" for i in authors_list]
+    if sum([(i.count("*") % 2 > 0) for i in authors_list]) > 0:
+        authors_list[-1] += " *(\\*equal contribution)*"
 
-    s += " " * 6 + f"- title: '{title}'\n"
-    s += " " * 8 + f"authors:\n"
-    for a in authors_list:
-        s += " " * 10 + f"- '{a}'\n"
-    s += " " * 8 + f"journal: '*[{journal}]({url})*'\n"
+    publications.append({
+        "title": title,
+        "authors": authors_list,
+        "journal": f"*[{journal}]({url})*"
+    })
 
-with open(filename) as f:
-    file = f.read().split("\n")
-    modified_file = ""
-    publine = False
-
-    for line in file:
-        if publine and (line[:6] != "      "):
-            publine = False
-        if (line != "    publications:") and not publine:
-            modified_file += line + "\n"
-        elif line == "    publications:":
-            modified_file += s
-            publine = True
-        
+yaml_file["cv"]["sections"]["publications"] = publications
 with open(filename, "w") as f:
-    f.write(modified_file)
+    yaml.dump(yaml_file, f, sort_keys=False)

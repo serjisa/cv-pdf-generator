@@ -4,204 +4,215 @@ cv:
   email: s@isaev.cc
   phone: tel:+43-660-961-4136
   social_networks:
-    - network: LinkedIn
-      username: sergisaev
-    - network: GitHub
-      username: serjisa
-    - network: Telegram
-      username: sergisa
+  - network: LinkedIn
+    username: sergisaev
+  - network: GitHub
+    username: serjisa
+  - network: Telegram
+    username: sergisa
   sections:
     about me:
-      - I'm doing a PhD in neuroscience at Igor Adameyko's lab at the Medical
-        University of Vienna. Mostly I'm focused on developing approaches for the analysis
-        and interpretation of multimodal single-cell omics and lineage tracing experiments.
-        Previously worked (and still am interested) in cancer immunology and evolutionary
-        zoology. 
+    - I'm doing a PhD in neuroscience at Igor Adameyko's lab at the Medical University
+      of Vienna. Mostly I'm focused on developing approaches for the analysis and
+      interpretation of multimodal single-cell omics and lineage tracing experiments.
+      Previously worked (and still am interested) in cancer immunology and evolutionary
+      zoology.
     education:
-      - institution: Medical University of Vienna
-        area: Neuroscience
-        degree: PhD
-        location: Vienna, Austria
-        start_date: 2022-07
-        end_date: present
-        summary: (supervision by Igor Adameyko and Peter Kharchenko)
-        highlights:
-          - Development of methods for lineage tracing analysis based on scRNA-Seq
-          - Managing of lab's computational servers and research services
-      - institution: Moscow State University
-        area: Bioengineering and Bioinformatics
-        degree: Specialist
-        location: Moscow, Russia
-        start_date: 2015-09
-        end_date: 2021-06
-        highlights:
-          - Combined BSc and MSc program for both computational and experimental
-            expertise in biology
+    - institution: Medical University of Vienna
+      area: Neuroscience
+      degree: PhD
+      location: Vienna, Austria
+      start_date: 2022-07
+      end_date: present
+      summary: (supervision by Igor Adameyko and Peter Kharchenko)
+      highlights:
+      - Development of methods for lineage tracing analysis based on scRNA-Seq
+      - Managing of lab's computational servers and research services
+    - institution: Moscow State University
+      area: Bioengineering and Bioinformatics
+      degree: Specialist
+      location: Moscow, Russia
+      start_date: 2015-09
+      end_date: 2021-06
+      highlights:
+      - Combined BSc and MSc program for both computational and experimental expertise
+        in biology
     professional experience:
-      - company: Endocrinology Research Center
-        position: Research Fellow
-        location: Moscow, Russia
-        start_date: 2021-09
-        end_date: 2022-06
-        summary: (supervision by Peter Kharchenko)
-        highlights:
-          - Developing diffusion-based methods for comparison of different single-cell
-            embeddings
-          - Single-cell analysis in immunological studies
-      - company: BostonGene
-        position: Bioinformatics Scientist
-        location: Moscow, Russia
-        start_date: 2019-11
-        end_date: 2021-12
-        summary: (supervision by Katerina Nuzhdina)
-        highlights:
-          - Bulk and single-cell RNA-Seq pipelines creation and curation
-            for tumor microenvironment research
-          - Managing of corporate educational courses helping to introduce best practices
-            of NGS analysis to new employees
-      - company: Institute for Information Transmission Problems of Russian Academy of Sciences
-        position: Undergraduate Research Fellow
-        location: Moscow, Russia
-        start_date: 2017-11
-        end_date: 2021-08
-        summary: (supervision by Yuri Panchin)
-        highlights:
-          - Comparative and functional genomics of non-model animals (Dicyemids, Orthonectids)
+    - company: Endocrinology Research Center
+      position: Research Fellow
+      location: Moscow, Russia
+      start_date: 2021-09
+      end_date: 2022-06
+      summary: (supervision by Peter Kharchenko)
+      highlights:
+      - Developing diffusion-based methods for comparison of different single-cell
+        embeddings
+      - Single-cell analysis in immunological studies
+    - company: BostonGene
+      position: Bioinformatics Scientist
+      location: Moscow, Russia
+      start_date: 2019-11
+      end_date: 2021-12
+      summary: (supervision by Katerina Nuzhdina)
+      highlights:
+      - Bulk and single-cell RNA-Seq pipelines creation and curation for tumor microenvironment
+        research
+      - Managing of corporate educational courses helping to introduce best practices
+        of NGS analysis to new employees
+    - company: Institute for Information Transmission Problems of Russian Academy
+        of Sciences
+      position: Undergraduate Research Fellow
+      location: Moscow, Russia
+      start_date: 2017-11
+      end_date: 2021-08
+      summary: (supervision by Yuri Panchin)
+      highlights:
+      - Comparative and functional genomics of non-model animals (Dicyemids, Orthonectids)
     packages:
-      - name: '[scLiTr](https://github.com/kharchenkolab/scLiTr)'
-        start_date: 2022
-        end_date: present
-        summary: Python package for single-cell Lineage Tracing analysis
-        highlights:
-          - Development and curation of the package
-          - Development and application of *clone2vec* algorithm
-      - name: '[symphonypy](https://github.com/potulabe/symphonypy)'
-        date: 2022
-        summary: Port of Symphony algorithm of single-cell reference atlas mapping to Python
-        highlights:
-          - Supervision of develoment (and co-development) of the package
-          - Curation of the package
+    - name: '[scLiTr](https://github.com/kharchenkolab/scLiTr)'
+      start_date: 2022
+      end_date: present
+      summary: Python package for single-cell Lineage Tracing analysis
+      highlights:
+      - Development and curation of the package
+      - Development and application of *clone2vec* algorithm
+    - name: '[symphonypy](https://github.com/potulabe/symphonypy)'
+      date: 2022
+      summary: Port of Symphony algorithm of single-cell reference atlas mapping to
+        Python
+      highlights:
+      - Supervision of develoment (and co-development) of the package
+      - Curation of the package
     publications:
-      - title: 'Unbiased profiling of multipotency landscapes reveals spatial modulators of clonal fate biases'
-        authors:
-          - 'Alek G Erickson*'
-          - '***Sergey Isaev****'
-          - 'Jingyan He'
-          - 'et al.'
-        journal: '*[bioRxiv, 2024.11. 15.623687, 2024](https://www.biorxiv.org/content/10.1101/2024.11.15.623687.abstract)*'
-      - title: 'Multi-omic profiling of follicular lymphoma reveals changes in tissue architecture and enhanced stromal remodeling in high-risk patients'
-        authors:
-          - 'Andrea J Radtke*'
-          - 'Ekaterina Postovalova*'
-          - 'Arina Varlamova'
-          - '...'
-          - '***Sergey Isaev***'
-          - 'et al.'
-        journal: '*[Cancer cell 42 (3), 444-463. e10, 2024](https://www.cell.com/cancer-cell/abstract/S1535-6108%2824%2900045-X)*'
-      - title: 'Complex analysis of single-cell RNA sequencing data'
-        authors:
-          - 'Anna A Khozyainova'
-          - 'Anna A Valyaeva'
-          - 'Mikhail S Arbatsky'
-          - '***Sergey V Isaev***'
-          - 'et al.'
-        journal: '*[Biochemistry (Moscow) 88 (2), 231-252, 2023](https://link.springer.com/article/10.1134/s0006297923020074)*'
-      - title: 'Thymic mesenchymal niche cells drive T cell immune regeneration'
-        authors:
-          - 'Karin Gustafsson'
-          - '***Sergey Isaev***'
-          - 'Kameron A Kooshesh'
-          - 'et al.'
-        journal: '*[bioRxiv, 2022.10. 12.511184, 2022](https://www.biorxiv.org/content/10.1101/2022.10.12.511184.abstract)*'
-      - title: 'Follicular lymphoma microenvironment characteristics associated with tumor cell mutations and MHC class II expression'
-        authors:
-          - 'Guangchun Han'
-          - 'Qing Deng'
-          - 'Mario L Marques-Piubelli'
-          - '...'
-          - '***Sergey Isaev***'
-          - 'et al.'
-        journal: '*[Blood cancer discovery 3 (5), 428-443, 2022](https://aacrjournals.org/bloodcancerdiscov/article-abstract/3/5/428/708353)*'
-      - title: 'Multiregional single-cell proteogenomic analysis of ccRCC reveals cytokine drivers of intratumor spatial heterogeneity'
-        authors:
-          - 'Natalia Miheecheva'
-          - 'Ekaterina Postovalova'
-          - 'Yang Lyu'
-          - '...'
-          - '***Sergey Isaev***'
-          - 'et al.'
-        journal: '*[Cell Reports 40 (7), 2022](https://www.cell.com/cell-reports/fulltext/S2211-1247%2822%2900993-7)*'
-      - title: 'Dicyemida and Orthonectida: two stories of body plan simplification'
-        authors:
-          - 'Oleg A Zverkov'
-          - 'Kirill V Mikhailov'
-          - '***Sergey V Isaev***'
-          - 'et al.'
-        journal: '*[Frontiers in Genetics 10, 443, 2019](https://www.frontiersin.org/articles/10.3389/fgene.2019.00443/full)*'
+    - title: Unbiased profiling of multipotency landscapes reveals spatial modulators
+        of clonal fate biases
+      authors:
+      - Alek G Erickson*
+      - '***Sergey Isaev****'
+      - Jingyan He
+      - et al. *(\*equal contribution)*
+      journal: '*[bioRxiv, 2024.11. 15.623687, 2024](https://www.biorxiv.org/content/10.1101/2024.11.15.623687.abstract)*'
+    - title: Multi-omic profiling of follicular lymphoma reveals changes in tissue
+        architecture and enhanced stromal remodeling in high-risk patients
+      authors:
+      - Andrea J Radtke*
+      - Ekaterina Postovalova*
+      - Arina Varlamova
+      - '...'
+      - '***Sergey Isaev***'
+      - et al. *(\*equal contribution)*
+      journal: '*[Cancer cell 42 (3), 444-463. e10, 2024](https://www.cell.com/cancer-cell/abstract/S1535-6108%2824%2900045-X)*'
+    - title: Complex analysis of single-cell RNA sequencing data
+      authors:
+      - Anna A Khozyainova
+      - Anna A Valyaeva
+      - Mikhail S Arbatsky
+      - '***Sergey V Isaev***'
+      - et al.
+      journal: '*[Biochemistry (Moscow) 88 (2), 231-252, 2023](https://link.springer.com/article/10.1134/s0006297923020074)*'
+    - title: Thymic mesenchymal niche cells drive T cell immune regeneration
+      authors:
+      - Karin Gustafsson
+      - '***Sergey Isaev***'
+      - Kameron A Kooshesh
+      - et al.
+      journal: '*[bioRxiv, 2022.10. 12.511184, 2022](https://www.biorxiv.org/content/10.1101/2022.10.12.511184.abstract)*'
+    - title: Follicular lymphoma microenvironment characteristics associated with
+        tumor cell mutations and MHC class II expression
+      authors:
+      - Guangchun Han
+      - Qing Deng
+      - Mario L Marques-Piubelli
+      - '...'
+      - '***Sergey Isaev***'
+      - et al.
+      journal: '*[Blood cancer discovery 3 (5), 428-443, 2022](https://aacrjournals.org/bloodcancerdiscov/article-abstract/3/5/428/708353)*'
+    - title: Multiregional single-cell proteogenomic analysis of ccRCC reveals cytokine
+        drivers of intratumor spatial heterogeneity
+      authors:
+      - Natalia Miheecheva
+      - Ekaterina Postovalova
+      - Yang Lyu
+      - '...'
+      - '***Sergey Isaev***'
+      - et al.
+      journal: '*[Cell Reports 40 (7), 2022](https://www.cell.com/cell-reports/fulltext/S2211-1247%2822%2900993-7)*'
+    - title: 'Dicyemida and Orthonectida: two stories of body plan simplification'
+      authors:
+      - Oleg A Zverkov
+      - Kirill V Mikhailov
+      - '***Sergey V Isaev***'
+      - et al.
+      journal: '*[Frontiers in Genetics 10, 443, 2019](https://www.frontiersin.org/articles/10.3389/fgene.2019.00443/full)*'
     conferences:
-      - company: 19th YSA PhD Symposium 2024
-        position: 'Oral presentation "Clonal embeddings"'
-        location: Vienna, Austria
-        date: 2024-05
-      - company: Computational biology and artificial intelligence for personalized medicine-2022
-        position: 'Oral presentation "How to deal with single-cell multi-omics? Comparison of single-cell multimodal data vertical integration methods"'
-        location: Moscow, Russia (remote)
-        date: 2022-08
-      - company: VII International conference "Marine Research and Education"
-        position: 'Poster "Metagenomic study of eukaryotic microbiota of meromictic lakes on the coast of Kandalaksha Bay of the White Sea"'
-        location: Moscow, Russia
-        date: 2019-11
-      - company: Information Technologies and Systems 2018
-        position: 'Poster "Circular DNA in *Dicyema sp.* genome"'
-        location: Moscow, Russia
-        date: 2018-09
+    - company: 19th YSA PhD Symposium 2024
+      position: Oral presentation "Clonal embeddings"
+      location: Vienna, Austria
+      date: 2024-05
+    - company: Computational biology and artificial intelligence for personalized
+        medicine-2022
+      position: Oral presentation "How to deal with single-cell multi-omics? Comparison
+        of single-cell multimodal data vertical integration methods"
+      location: Moscow, Russia (remote)
+      date: 2022-08
+    - company: VII International conference "Marine Research and Education"
+      position: Poster "Metagenomic study of eukaryotic microbiota of meromictic lakes
+        on the coast of Kandalaksha Bay of the White Sea"
+      location: Moscow, Russia
+      date: 2019-11
+    - company: Information Technologies and Systems 2018
+      position: Poster "Circular DNA in *Dicyema sp.* genome"
+      location: Moscow, Russia
+      date: 2018-09
     teaching experience:
-      - company: Moscow State University
-        position: '[Transcriptomics Data Analysis](https://github.com/serjisa/transcriptomics.msu)'
-        location: Moscow, Russia (remote)
-        start_date: 2022-09
-        end_date: present
-        summary: Development and teaching of both theoretical and practical parts of the course
-          at the Faculty of Bioengineering and Bioinformatics
-      - company: Higher School of Economics
-        position: NGS data analysis *(RNA-Seq part)*
-        location: Moscow, Russia
-        start_date: 2021
-        end_date: 2024
-        summary: Teaching of RNA-Seq analysis part of the course for bachelor's and master's students
-      - company: Bordeaux School of Neuroscience
-        position: Single cell profiling and analysis in neuroscience
-        location: Bordeaux, France
-        date: 2022-06
-        summary: Assisting on practical workshops dedicated to scRNA-Seq analysis in neuroscience
-      - company: Moscow Institute of Physics and Technology
-        position: Introduction to NGS analysis *(RNA-Seq part)*
-        location: Moscow, Russia
-        date: 2020
-        summary: Development and teaching of RNA-Seq analysis part of the BostonGene's course for
-          bachelor's students
-      - company: Letovo
-        position: Introduction to Bioinformatics
-        location: Moscow, Russia
-        start_date: 2018-09
-        end_date: 2021-05
-        summary: Development and teaching of the introductory course for high school students
+    - company: Moscow State University
+      position: '[Transcriptomics Data Analysis](https://github.com/serjisa/transcriptomics.msu)'
+      location: Moscow, Russia (remote)
+      start_date: 2022-09
+      end_date: present
+      summary: Development and teaching of both theoretical and practical parts of
+        the course at the Faculty of Bioengineering and Bioinformatics
+    - company: Higher School of Economics
+      position: NGS data analysis *(RNA-Seq part)*
+      location: Moscow, Russia
+      start_date: 2021
+      end_date: 2024
+      summary: Teaching of RNA-Seq analysis part of the course for bachelor's and
+        master's students
+    - company: Bordeaux School of Neuroscience
+      position: Single cell profiling and analysis in neuroscience
+      location: Bordeaux, France
+      date: 2022-06
+      summary: Assisting on practical workshops dedicated to scRNA-Seq analysis in
+        neuroscience
+    - company: Moscow Institute of Physics and Technology
+      position: Introduction to NGS analysis *(RNA-Seq part)*
+      location: Moscow, Russia
+      date: 2020
+      summary: Development and teaching of RNA-Seq analysis part of the BostonGene's
+        course for bachelor's students
+    - company: Letovo
+      position: Introduction to Bioinformatics
+      location: Moscow, Russia
+      start_date: 2018-09
+      end_date: 2021-05
+      summary: Development and teaching of the introductory course for high school
+        students
     skills:
-      - label: Programming
-        details: proficient with Python; comfortable with R, bash, PyTorch,
-          and Nextflow; familiar with C++, Docker, Git, nginx, and a basic
-          server management
-      - label: Mathematics and computer science
-        details: good understanding of probability theory, statistics, and linear
-          algebra, and their applications to data analysis
-      - label: Languages
-        details: English (fluent), Russian (native)
+    - label: Programming
+      details: proficient with Python; comfortable with R, bash, PyTorch, and Nextflow;
+        familiar with C++, Docker, Git, nginx, and a basic server management
+    - label: Mathematics and computer science
+      details: good understanding of probability theory, statistics, and linear algebra,
+        and their applications to data analysis
+    - label: Languages
+      details: English (fluent), Russian (native)
     extracurricular_activities:
-      - bullet: In 2017–2020 I co-organized department's **cinema club** where
-          we watched and discussed modern arthouse movies
-      - bullet: As much as I can I'm trying to participate in **popular science events** as
-          a speaker ([example](https://www.youtube.com/watch?v=u0ZtPvwEcTM))
-      - bullet: I'm an active member of the **[FBB Alumni Club](http://fbb-alumni.ru)**
+    - bullet: "In 2017\u20132020 I co-organized department's **cinema club** where\
+        \ we watched and discussed modern arthouse movies"
+    - bullet: As much as I can I'm trying to participate in **popular science events**
+        as a speaker ([example](https://www.youtube.com/watch?v=u0ZtPvwEcTM))
+    - bullet: I'm an active member of the **[FBB Alumni Club](http://fbb-alumni.ru)**
 design:
   theme: sb2nov
   page:
@@ -256,7 +267,7 @@ design:
     short_second_row: false
     show_time_spans_in: []
   highlights:
-    bullet: ◦
+    bullet: "\u25E6"
     top_margin: 0.25cm
     left_margin: 0.4cm
     vertical_space_between_highlights: 0.25cm
@@ -266,26 +277,45 @@ design:
     one_line_entry:
       template: '**LABEL:** DETAILS'
     education_entry:
-      main_column_first_row_template: "**INSTITUTION**\n*DEGREE
-        in AREA*"
+      main_column_first_row_template: '**INSTITUTION**
+
+        *DEGREE in AREA*'
       degree_column_width: 1cm
-      main_column_second_row_template: "SUMMARY\nHIGHLIGHTS"
-      date_and_location_column_template: "*LOCATION*\n*DATE*"
+      main_column_second_row_template: 'SUMMARY
+
+        HIGHLIGHTS'
+      date_and_location_column_template: '*LOCATION*
+
+        *DATE*'
     normal_entry:
       main_column_first_row_template: '**NAME**'
-      main_column_second_row_template: "SUMMARY\nHIGHLIGHTS"
-      date_and_location_column_template: "*LOCATION*\n*DATE*"
+      main_column_second_row_template: 'SUMMARY
+
+        HIGHLIGHTS'
+      date_and_location_column_template: '*LOCATION*
+
+        *DATE*'
     experience_entry:
-      main_column_first_row_template: "**POSITION**\n*COMPANY*"
-      main_column_second_row_template: "SUMMARY\nHIGHLIGHTS"
-      date_and_location_column_template: "*LOCATION*\n*DATE*"
+      main_column_first_row_template: '**POSITION**
+
+        *COMPANY*'
+      main_column_second_row_template: 'SUMMARY
+
+        HIGHLIGHTS'
+      date_and_location_column_template: '*LOCATION*
+
+        *DATE*'
     publication_entry:
       main_column_first_row_template: '**TITLE**'
-      main_column_second_row_template: "AUTHORS\nURL (JOURNAL)"
-      main_column_second_row_without_journal_template: "AUTHORS\n\
-        URL"
-      main_column_second_row_without_url_template: "AUTHORS\n\
-        JOURNAL"
+      main_column_second_row_template: 'AUTHORS
+
+        URL (JOURNAL)'
+      main_column_second_row_without_journal_template: 'AUTHORS
+
+        URL'
+      main_column_second_row_without_url_template: 'AUTHORS
+
+        JOURNAL'
       date_and_location_column_template: DATE
 locale:
   language: en
@@ -298,35 +328,33 @@ locale:
   year: year
   years: years
   present: present
-  to: –
+  to: "\u2013"
   abbreviations_for_months:
-    - Jan
-    - Feb
-    - Mar
-    - Apr
-    - May
-    - June
-    - July
-    - Aug
-    - Sept
-    - Oct
-    - Nov
-    - Dec
+  - Jan
+  - Feb
+  - Mar
+  - Apr
+  - May
+  - June
+  - July
+  - Aug
+  - Sept
+  - Oct
+  - Nov
+  - Dec
   full_names_of_months:
-    - January
-    - February
-    - March
-    - April
-    - May
-    - June
-    - July
-    - August
-    - September
-    - October
-    - November
-    - December
+  - January
+  - February
+  - March
+  - April
+  - May
+  - June
+  - July
+  - August
+  - September
+  - October
+  - November
+  - December
 rendercv_settings:
   date: '2025-02-03'
   bold_keywords: []
-
-
