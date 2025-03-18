@@ -84,6 +84,14 @@ cv:
       - Supervision of develoment (and co-development) of the package
       - Curation of the package
     publications:
+    - title: Positioning of sperm tail longitudinal columns depend on Nsun7, an RNA
+        binding protein destabilizing elongated spermatid transcripts
+      authors:
+      - Ekaterina Guseva
+      - Olga Averina
+      - '***Sergey Isaev***'
+      - et al.
+      journal: '*[RNA, rna. 080320.124, 2025](https://rnajournal.cshlp.org/content/early/2025/03/03/rna.080320.124.abstract)*'
     - title: Unbiased profiling of multipotency landscapes reveals spatial modulators
         of clonal fate biases
       authors:

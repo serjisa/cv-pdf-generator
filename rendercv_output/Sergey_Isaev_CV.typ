@@ -622,6 +622,15 @@
 == Publications
 
 #one-col-entry(content:[
+  #strong[Positioning of sperm tail longitudinal columns depend on Nsun7, an RNA binding protein destabilizing elongated spermatid transcripts]
+
+  #v(-design-text-leading)
+  #v(design-highlights-top-margin);Ekaterina Guseva, Olga Averina, #strong[#emph[Sergey Isaev]], et al.
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://rnajournal.cshlp.org/content/early/2025/03/03/rna.080320.124.abstract")[#emph[RNA, rna. 080320.124, 2025]]])
+
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(content:[
   #strong[Unbiased profiling of multipotency landscapes reveals spatial modulators of clonal fate biases]
 
   #v(-design-text-leading)

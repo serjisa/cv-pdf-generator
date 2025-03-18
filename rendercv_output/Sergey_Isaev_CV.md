@@ -65,6 +65,10 @@ I'm doing a PhD in neuroscience at Igor Adameyko's lab at the Medical University
 
 # Publications
 
+## Positioning of sperm tail longitudinal columns depend on Nsun7, an RNA binding protein destabilizing elongated spermatid transcripts 
+- Ekaterina Guseva, Olga Averina, ***Sergey Isaev***, et al.
+- *[RNA, rna. 080320.124, 2025](https://rnajournal.cshlp.org/content/early/2025/03/03/rna.080320.124.abstract)*
+
 ## Unbiased profiling of multipotency landscapes reveals spatial modulators of clonal fate biases 
 - Alek G Erickson*, ***Sergey Isaev****, Jingyan He, et al. *(\*equal contribution)*
 - *[bioRxiv, 2024.11. 15.623687, 2024](https://www.biorxiv.org/content/10.1101/2024.11.15.623687.abstract)*
