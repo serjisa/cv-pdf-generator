@@ -37,10 +37,12 @@ jobs:
           cp rendercv_output/Sergey_Isaev_CV.pdf serjisa.github.io/assets/pdf/cv.pdf
 
       - name: Push PDF to Target Repository
+        env:
+          GITHUB_TOKEN: ${{ secrets.PUBLIC_REPO_SECRET }}
         run: |
           cd serjisa.github.io
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config --global user.name "serjisa"
+          git config --global user.email "serj.hoop@gmail.com"
           git add .
           git commit -m "Update PDF - $(date +'%Y-%m-%d')"
-          git push origin master
+          git push https://$GITHUB_TOKEN@github.com/serjisa/serjisa.github.io.git main
