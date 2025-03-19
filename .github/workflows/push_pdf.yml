@@ -30,9 +30,14 @@ jobs:
       - name: Render CV
         run: rendercv render "Sergey_Isaev_CV.yaml"
 
-      - name: Clone Target Repository
+      - name: Configure Git
         run: |
           git config --unset-all http.https://github.com/.extraheader
+          git config --global user.name "serjisa"
+          git config --global user.email "serj.hoop@gmail.com"
+
+      - name: Clone Target Repository
+        run: |
           git clone https://github.com/serjisa/serjisa.github.io
           cp rendercv_output/Sergey_Isaev_CV.pdf serjisa.github.io/assets/pdf/cv.pdf
 
@@ -41,8 +46,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PUBLIC_REPO_SECRET }}
         run: |
           cd serjisa.github.io
-          git config --global user.name "serjisa"
-          git config --global user.email "serj.hoop@gmail.com"
           git add .
           git commit -m "Update PDF - $(date +'%Y-%m-%d')"
-          git push https://$GITHUB_TOKEN@github.com/serjisa/serjisa.github.io.git main
+          git push https://$GITHUB_TOKEN@github.com/serjisa/serjisa.github.io master
