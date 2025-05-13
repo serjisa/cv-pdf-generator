@@ -67,35 +67,35 @@ I'm doing a PhD in neuroscience at Igor Adameyko's lab at the Medical University
 
 ## Positioning of sperm tail longitudinal columns depends on NSUN7, an RNA-binding protein destabilizing elongated spermatid transcripts 
 - Ekaterina A Guseva, Olga A Averina, ***Sergey V Isaev***, et al.
-- *[RNA 31 (5), 709-723, 2025](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=<built-in function id>&citation_for_view=fZlONS4AAAAJ:LkGwnXOMwfcC)*
+- *[RNA 31 (5), 709-723, 2025](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:LkGwnXOMwfcC)*
 
 ## Unbiased profiling of multipotency landscapes reveals spatial modulators of clonal fate biases 
 - Alek G Erickson*, ***Sergey Isaev****, Jingyan He, et al. *(\*equal contribution)*
-- *[bioRxiv, 2024.11. 15.623687, 2024](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=<built-in function id>&citation_for_view=fZlONS4AAAAJ:ufrVoPGSRksC)*
+- *[bioRxiv, 2024.11. 15.623687, 2024](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:ufrVoPGSRksC)*
 
 ## Multi-omic profiling of follicular lymphoma reveals changes in tissue architecture and enhanced stromal remodeling in high-risk patients 
 - Andrea J Radtke*, Ekaterina Postovalova*, Arina Varlamova, ..., ***Sergey Isaev***, et al. *(\*equal contribution)*
-- *[Cancer cell 42 (3), 444-463. e10, 2024](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=<built-in function id>&citation_for_view=fZlONS4AAAAJ:YsMSGLbcyi4C)*
+- *[Cancer cell 42 (3), 444-463. e10, 2024](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:YsMSGLbcyi4C)*
 
 ## Complex analysis of single-cell RNA sequencing data 
 - Anna A Khozyainova, Anna A Valyaeva, Mikhail S Arbatsky, ***Sergey V Isaev***, et al.
-- *[Biochemistry (Moscow) 88 (2), 231-252, 2023](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=<built-in function id>&citation_for_view=fZlONS4AAAAJ:W7OEmFMy1HYC)*
+- *[Biochemistry (Moscow) 88 (2), 231-252, 2023](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:W7OEmFMy1HYC)*
 
 ## Thymic mesenchymal niche cells drive T cell immune regeneration 
 - Karin Gustafsson, ***Sergey Isaev***, Kameron A Kooshesh, et al.
-- *[bioRxiv, 2022.10. 12.511184, 2022](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=<built-in function id>&citation_for_view=fZlONS4AAAAJ:Y0pCki6q_DkC)*
+- *[bioRxiv, 2022.10. 12.511184, 2022](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:Y0pCki6q_DkC)*
 
 ## Follicular lymphoma microenvironment characteristics associated with tumor cell mutations and MHC class II expression 
 - Guangchun Han, Qing Deng, Mario L Marques-Piubelli, ..., ***Sergey Isaev***, et al.
-- *[Blood cancer discovery 3 (5), 428-443, 2022](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=<built-in function id>&citation_for_view=fZlONS4AAAAJ:IjCSPb-OGe4C)*
+- *[Blood cancer discovery 3 (5), 428-443, 2022](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:IjCSPb-OGe4C)*
 
 ## Multiregional single-cell proteogenomic analysis of ccRCC reveals cytokine drivers of intratumor spatial heterogeneity 
 - Natalia Miheecheva, Ekaterina Postovalova, Yang Lyu, ..., ***Sergey Isaev***, et al.
-- *[Cell Reports 40 (7), 2022](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=<built-in function id>&citation_for_view=fZlONS4AAAAJ:Tyk-4Ss8FVUC)*
+- *[Cell Reports 40 (7), 2022](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:Tyk-4Ss8FVUC)*
 
 ## Dicyemida and Orthonectida: two stories of body plan simplification 
 - Oleg A Zverkov, Kirill V Mikhailov, ***Sergey V Isaev***, et al.
-- *[Frontiers in Genetics 10, 443, 2019](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=<built-in function id>&citation_for_view=fZlONS4AAAAJ:d1gkVwhDpl0C)*
+- *[Frontiers in Genetics 10, 443, 2019](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:d1gkVwhDpl0C)*
 
 # Conferences
 

@@ -48,7 +48,7 @@ for pub in author["publications"]:
     journal = pub_filled["bib"]["citation"]
     date = pub_filled["bib"]["pub_year"]
     pub_id = pub_filled["author_pub_id"]
-    url = f"https://scholar.google.com/citations?view_op=view_citation&hl=en&user={id}&citation_for_view={pub_id}"
+    url = f"https://scholar.google.com/citations?view_op=view_citation&hl=en&user={author_id}&citation_for_view={pub_id}"
     
     position = np.argwhere([match_name(author_name, s) for s in authors])[0][0] + 1
     name = authors[position - 1]
