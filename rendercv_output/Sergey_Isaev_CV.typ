@@ -634,7 +634,7 @@
   #strong[Unbiased profiling of multipotency landscapes reveals spatial modulators of clonal fate biases]
 
   #v(-design-text-leading)
-  #v(design-highlights-top-margin);Alek G Erickson#sym.ast.basic#h(0pt, weak: true), #strong[#emph[Sergey Isaev]]#sym.ast.basic#h(0pt, weak: true), Jingyan He, et al. #emph[\(#sym.ast.basic#h(0pt, weak: true)equal contribution\)]
+  #v(design-highlights-top-margin);Alek G Erickson#sym.ast.basic#h(0pt, weak: true) , #strong[#emph[Sergey Isaev]]#sym.ast.basic#h(0pt, weak: true) , Jingyan He, et al. #emph[\(#sym.ast.basic#h(0pt, weak: true) equal contribution\)]
 
 #v(design-highlights-top-margin - design-text-leading)#link("https://www.biorxiv.org/content/10.1101/2024.11.15.623687.abstract")[#emph[bioRxiv, 2024.11. 15.623687, 2024]]])
 
@@ -643,7 +643,7 @@
   #strong[Multi-omic profiling of follicular lymphoma reveals changes in tissue architecture and enhanced stromal remodeling in high-risk patients]
 
   #v(-design-text-leading)
-  #v(design-highlights-top-margin);Andrea J Radtke#sym.ast.basic#h(0pt, weak: true), Ekaterina Postovalova#sym.ast.basic#h(0pt, weak: true), Arina Varlamova, ..., #strong[#emph[Sergey Isaev]], et al. #emph[\(#sym.ast.basic#h(0pt, weak: true)equal contribution\)]
+  #v(design-highlights-top-margin);Andrea J Radtke#sym.ast.basic#h(0pt, weak: true) , Ekaterina Postovalova#sym.ast.basic#h(0pt, weak: true) , Arina Varlamova, ..., #strong[#emph[Sergey Isaev]], et al. #emph[\(#sym.ast.basic#h(0pt, weak: true) equal contribution\)]
 
 #v(design-highlights-top-margin - design-text-leading)#link("https://www.cell.com/cancer-cell/abstract/S1535-6108%2824%2900045-X")[#emph[Cancer cell 42 \(3\), 444-463. e10, 2024]]])
 

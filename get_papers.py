@@ -46,8 +46,6 @@ for pub in author["publications"]:
     title = pub_filled["bib"]["title"]
     journal = pub_filled["bib"]["citation"]
     date = pub_filled["bib"]["pub_year"]
-    url = pub_filled["pub_url"]
-    url = url.replace("(", "%28").replace(")", "%29")
     
     position = np.argwhere([match_name(author_name, s) for s in authors])[0][0] + 1
     name = authors[position - 1]
@@ -66,7 +64,7 @@ for pub in author["publications"]:
     publications.append({
         "title": title,
         "authors": authors_list,
-        "journal": f"*[{journal}]({url})*"
+        "journal": f"*{journal}*"
     })
 
 yaml_file["cv"]["sections"]["publications"] = publications
