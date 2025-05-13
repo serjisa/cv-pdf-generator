@@ -4,16 +4,6 @@ import numpy as np
 import yaml
 import requests
 
-def get_doi_from_title(title):
-    url = "https://api.crossref.org/works"
-    params = {"query.bibliographic": title, "rows": 1}
-    response = requests.get(url, params=params)
-    if response.status_code == 200:
-        items = response.json()["message"]["items"]
-        if items:
-            return items[0].get("DOI"), items[0].get("URL")
-    return None, None
-
 def match_name(name, record):
     """
     We have to identify author's name in complicated cases,
@@ -57,7 +47,8 @@ for pub in author["publications"]:
     title = pub_filled["bib"]["title"]
     journal = pub_filled["bib"]["citation"]
     date = pub_filled["bib"]["pub_year"]
-    doi, link = get_doi_from_title(title)
+    pub_id = pub_filled["author_pub_id"]
+    url = f"https://scholar.google.com/citations?view_op=view_citation&hl=en&user={id}&citation_for_view={pub_id}"
     
     position = np.argwhere([match_name(author_name, s) for s in authors])[0][0] + 1
     name = authors[position - 1]
@@ -76,7 +67,7 @@ for pub in author["publications"]:
     publications.append({
         "title": title,
         "authors": authors_list,
-        "journal": f"*[{journal}]({link})*"
+        "journal": f"*[{journal}]({url})*"
     })
 
 yaml_file["cv"]["sections"]["publications"] = publications
