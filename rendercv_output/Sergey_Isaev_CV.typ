@@ -627,7 +627,7 @@
   #v(-design-text-leading)
   #v(design-highlights-top-margin);Ekaterina A Guseva, Olga A Averina, #strong[#emph[Sergey V Isaev]], et al.
 
-#v(design-highlights-top-margin - design-text-leading)#emph[RNA 31 \(5\), 709-723, 2025]])
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1261/rna.080320.124")[#emph[RNA 31 \(5\), 709-723, 2025]]])
 
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(content:[
@@ -636,7 +636,7 @@
   #v(-design-text-leading)
   #v(design-highlights-top-margin);Alek G Erickson#sym.ast.basic#h(0pt, weak: true) , #strong[#emph[Sergey Isaev]]#sym.ast.basic#h(0pt, weak: true) , Jingyan He, et al. #emph[\(#sym.ast.basic#h(0pt, weak: true) equal contribution\)]
 
-#v(design-highlights-top-margin - design-text-leading)#emph[bioRxiv, 2024.11. 15.623687, 2024]])
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1101/2024.11.15.623687")[#emph[bioRxiv, 2024.11. 15.623687, 2024]]])
 
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(content:[
@@ -645,7 +645,7 @@
   #v(-design-text-leading)
   #v(design-highlights-top-margin);Andrea J Radtke#sym.ast.basic#h(0pt, weak: true) , Ekaterina Postovalova#sym.ast.basic#h(0pt, weak: true) , Arina Varlamova, ..., #strong[#emph[Sergey Isaev]], et al. #emph[\(#sym.ast.basic#h(0pt, weak: true) equal contribution\)]
 
-#v(design-highlights-top-margin - design-text-leading)#emph[Cancer cell 42 \(3\), 444-463. e10, 2024]])
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1016/j.ccell.2024.02.001")[#emph[Cancer cell 42 \(3\), 444-463. e10, 2024]]])
 
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(content:[
@@ -654,7 +654,7 @@
   #v(-design-text-leading)
   #v(design-highlights-top-margin);Anna A Khozyainova, Anna A Valyaeva, Mikhail S Arbatsky, #strong[#emph[Sergey V Isaev]], et al.
 
-#v(design-highlights-top-margin - design-text-leading)#emph[Biochemistry \(Moscow\) 88 \(2\), 231-252, 2023]])
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.18297/etd/3416")[#emph[Biochemistry \(Moscow\) 88 \(2\), 231-252, 2023]]])
 
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(content:[
@@ -663,7 +663,7 @@
   #v(-design-text-leading)
   #v(design-highlights-top-margin);Karin Gustafsson, #strong[#emph[Sergey Isaev]], Kameron A Kooshesh, et al.
 
-#v(design-highlights-top-margin - design-text-leading)#emph[bioRxiv, 2022.10. 12.511184, 2022]])
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1101/2022.10.12.511184")[#emph[bioRxiv, 2022.10. 12.511184, 2022]]])
 
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(content:[
@@ -672,7 +672,7 @@
   #v(-design-text-leading)
   #v(design-highlights-top-margin);Guangchun Han, Qing Deng, Mario L Marques-Piubelli, ..., #strong[#emph[Sergey Isaev]], et al.
 
-#v(design-highlights-top-margin - design-text-leading)#emph[Blood cancer discovery 3 \(5\), 428-443, 2022]])
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1158/2643-3230.c.6550995.v1")[#emph[Blood cancer discovery 3 \(5\), 428-443, 2022]]])
 
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(content:[
@@ -681,7 +681,7 @@
   #v(-design-text-leading)
   #v(design-highlights-top-margin);Natalia Miheecheva, Ekaterina Postovalova, Yang Lyu, ..., #strong[#emph[Sergey Isaev]], et al.
 
-#v(design-highlights-top-margin - design-text-leading)#emph[Cell Reports 40 \(7\), 2022]])
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1016/j.celrep.2022.111180")[#emph[Cell Reports 40 \(7\), 2022]]])
 
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(content:[
@@ -690,7 +690,7 @@
   #v(-design-text-leading)
   #v(design-highlights-top-margin);Oleg A Zverkov, Kirill V Mikhailov, #strong[#emph[Sergey V Isaev]], et al.
 
-#v(design-highlights-top-margin - design-text-leading)#emph[Frontiers in Genetics 10, 443, 2019]])
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.3389/fgene.2019.00443")[#emph[Frontiers in Genetics 10, 443, 2019]]])
 
 
 
