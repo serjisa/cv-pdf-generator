@@ -65,37 +65,37 @@ I'm doing a PhD in neuroscience at Igor Adameyko's lab at the Medical University
 
 # Publications
 
-## Positioning of sperm tail longitudinal columns depend on Nsun7, an RNA binding protein destabilizing elongated spermatid transcripts 
-- Ekaterina Guseva, Olga Averina, ***Sergey Isaev***, et al.
-- *[RNA, rna. 080320.124, 2025](https://rnajournal.cshlp.org/content/early/2025/03/03/rna.080320.124.abstract)*
+## Positioning of sperm tail longitudinal columns depends on NSUN7, an RNA-binding protein destabilizing elongated spermatid transcripts 
+- Ekaterina A Guseva, Olga A Averina, ***Sergey V Isaev***, et al.
+- *RNA 31 (5), 709-723, 2025*
 
 ## Unbiased profiling of multipotency landscapes reveals spatial modulators of clonal fate biases 
 - Alek G Erickson*, ***Sergey Isaev****, Jingyan He, et al. *(\*equal contribution)*
-- *[bioRxiv, 2024.11. 15.623687, 2024](https://www.biorxiv.org/content/10.1101/2024.11.15.623687.abstract)*
+- *bioRxiv, 2024.11. 15.623687, 2024*
 
 ## Multi-omic profiling of follicular lymphoma reveals changes in tissue architecture and enhanced stromal remodeling in high-risk patients 
 - Andrea J Radtke*, Ekaterina Postovalova*, Arina Varlamova, ..., ***Sergey Isaev***, et al. *(\*equal contribution)*
-- *[Cancer cell 42 (3), 444-463. e10, 2024](https://www.cell.com/cancer-cell/abstract/S1535-6108%2824%2900045-X)*
+- *Cancer cell 42 (3), 444-463. e10, 2024*
 
 ## Complex analysis of single-cell RNA sequencing data 
 - Anna A Khozyainova, Anna A Valyaeva, Mikhail S Arbatsky, ***Sergey V Isaev***, et al.
-- *[Biochemistry (Moscow) 88 (2), 231-252, 2023](https://link.springer.com/article/10.1134/s0006297923020074)*
+- *Biochemistry (Moscow) 88 (2), 231-252, 2023*
 
 ## Thymic mesenchymal niche cells drive T cell immune regeneration 
 - Karin Gustafsson, ***Sergey Isaev***, Kameron A Kooshesh, et al.
-- *[bioRxiv, 2022.10. 12.511184, 2022](https://www.biorxiv.org/content/10.1101/2022.10.12.511184.abstract)*
+- *bioRxiv, 2022.10. 12.511184, 2022*
 
 ## Follicular lymphoma microenvironment characteristics associated with tumor cell mutations and MHC class II expression 
 - Guangchun Han, Qing Deng, Mario L Marques-Piubelli, ..., ***Sergey Isaev***, et al.
-- *[Blood cancer discovery 3 (5), 428-443, 2022](https://aacrjournals.org/bloodcancerdiscov/article-abstract/3/5/428/708353)*
+- *Blood cancer discovery 3 (5), 428-443, 2022*
 
 ## Multiregional single-cell proteogenomic analysis of ccRCC reveals cytokine drivers of intratumor spatial heterogeneity 
 - Natalia Miheecheva, Ekaterina Postovalova, Yang Lyu, ..., ***Sergey Isaev***, et al.
-- *[Cell Reports 40 (7), 2022](https://www.cell.com/cell-reports/fulltext/S2211-1247%2822%2900993-7)*
+- *Cell Reports 40 (7), 2022*
 
 ## Dicyemida and Orthonectida: two stories of body plan simplification 
 - Oleg A Zverkov, Kirill V Mikhailov, ***Sergey V Isaev***, et al.
-- *[Frontiers in Genetics 10, 443, 2019](https://www.frontiersin.org/articles/10.3389/fgene.2019.00443/full)*
+- *Frontiers in Genetics 10, 443, 2019*
 
 # Conferences
 

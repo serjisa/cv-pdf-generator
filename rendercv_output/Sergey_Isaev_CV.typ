@@ -622,12 +622,12 @@
 == Publications
 
 #one-col-entry(content:[
-  #strong[Positioning of sperm tail longitudinal columns depend on Nsun7, an RNA binding protein destabilizing elongated spermatid transcripts]
+  #strong[Positioning of sperm tail longitudinal columns depends on NSUN7, an RNA-binding protein destabilizing elongated spermatid transcripts]
 
   #v(-design-text-leading)
-  #v(design-highlights-top-margin);Ekaterina Guseva, Olga Averina, #strong[#emph[Sergey Isaev]], et al.
+  #v(design-highlights-top-margin);Ekaterina A Guseva, Olga A Averina, #strong[#emph[Sergey V Isaev]], et al.
 
-#v(design-highlights-top-margin - design-text-leading)#link("https://rnajournal.cshlp.org/content/early/2025/03/03/rna.080320.124.abstract")[#emph[RNA, rna. 080320.124, 2025]]])
+#v(design-highlights-top-margin - design-text-leading)#emph[RNA 31 \(5\), 709-723, 2025]])
 
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(content:[
@@ -636,7 +636,7 @@
   #v(-design-text-leading)
   #v(design-highlights-top-margin);Alek G Erickson#sym.ast.basic#h(0pt, weak: true) , #strong[#emph[Sergey Isaev]]#sym.ast.basic#h(0pt, weak: true) , Jingyan He, et al. #emph[\(#sym.ast.basic#h(0pt, weak: true) equal contribution\)]
 
-#v(design-highlights-top-margin - design-text-leading)#link("https://www.biorxiv.org/content/10.1101/2024.11.15.623687.abstract")[#emph[bioRxiv, 2024.11. 15.623687, 2024]]])
+#v(design-highlights-top-margin - design-text-leading)#emph[bioRxiv, 2024.11. 15.623687, 2024]])
 
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(content:[
@@ -645,7 +645,7 @@
   #v(-design-text-leading)
   #v(design-highlights-top-margin);Andrea J Radtke#sym.ast.basic#h(0pt, weak: true) , Ekaterina Postovalova#sym.ast.basic#h(0pt, weak: true) , Arina Varlamova, ..., #strong[#emph[Sergey Isaev]], et al. #emph[\(#sym.ast.basic#h(0pt, weak: true) equal contribution\)]
 
-#v(design-highlights-top-margin - design-text-leading)#link("https://www.cell.com/cancer-cell/abstract/S1535-6108%2824%2900045-X")[#emph[Cancer cell 42 \(3\), 444-463. e10, 2024]]])
+#v(design-highlights-top-margin - design-text-leading)#emph[Cancer cell 42 \(3\), 444-463. e10, 2024]])
 
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(content:[
@@ -654,7 +654,7 @@
   #v(-design-text-leading)
   #v(design-highlights-top-margin);Anna A Khozyainova, Anna A Valyaeva, Mikhail S Arbatsky, #strong[#emph[Sergey V Isaev]], et al.
 
-#v(design-highlights-top-margin - design-text-leading)#link("https://link.springer.com/article/10.1134/s0006297923020074")[#emph[Biochemistry \(Moscow\) 88 \(2\), 231-252, 2023]]])
+#v(design-highlights-top-margin - design-text-leading)#emph[Biochemistry \(Moscow\) 88 \(2\), 231-252, 2023]])
 
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(content:[
@@ -663,7 +663,7 @@
   #v(-design-text-leading)
   #v(design-highlights-top-margin);Karin Gustafsson, #strong[#emph[Sergey Isaev]], Kameron A Kooshesh, et al.
 
-#v(design-highlights-top-margin - design-text-leading)#link("https://www.biorxiv.org/content/10.1101/2022.10.12.511184.abstract")[#emph[bioRxiv, 2022.10. 12.511184, 2022]]])
+#v(design-highlights-top-margin - design-text-leading)#emph[bioRxiv, 2022.10. 12.511184, 2022]])
 
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(content:[
@@ -672,7 +672,7 @@
   #v(-design-text-leading)
   #v(design-highlights-top-margin);Guangchun Han, Qing Deng, Mario L Marques-Piubelli, ..., #strong[#emph[Sergey Isaev]], et al.
 
-#v(design-highlights-top-margin - design-text-leading)#link("https://aacrjournals.org/bloodcancerdiscov/article-abstract/3/5/428/708353")[#emph[Blood cancer discovery 3 \(5\), 428-443, 2022]]])
+#v(design-highlights-top-margin - design-text-leading)#emph[Blood cancer discovery 3 \(5\), 428-443, 2022]])
 
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(content:[
@@ -681,7 +681,7 @@
   #v(-design-text-leading)
   #v(design-highlights-top-margin);Natalia Miheecheva, Ekaterina Postovalova, Yang Lyu, ..., #strong[#emph[Sergey Isaev]], et al.
 
-#v(design-highlights-top-margin - design-text-leading)#link("https://www.cell.com/cell-reports/fulltext/S2211-1247%2822%2900993-7")[#emph[Cell Reports 40 \(7\), 2022]]])
+#v(design-highlights-top-margin - design-text-leading)#emph[Cell Reports 40 \(7\), 2022]])
 
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(content:[
@@ -690,7 +690,7 @@
   #v(-design-text-leading)
   #v(design-highlights-top-margin);Oleg A Zverkov, Kirill V Mikhailov, #strong[#emph[Sergey V Isaev]], et al.
 
-#v(design-highlights-top-margin - design-text-leading)#link("https://www.frontiersin.org/articles/10.3389/fgene.2019.00443/full")[#emph[Frontiers in Genetics 10, 443, 2019]]])
+#v(design-highlights-top-margin - design-text-leading)#emph[Frontiers in Genetics 10, 443, 2019]])
 
 
 
