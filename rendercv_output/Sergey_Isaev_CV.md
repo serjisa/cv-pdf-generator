@@ -51,19 +51,24 @@ I'm doing a PhD in neuroscience at Igor Adameyko's lab at the Medical University
 
 # Packages
 
+## [py-fastglmpca](https://github.com/serjisa/py-fastglmpca)
+
+- 2025
+
 ## [scLiTr](https://github.com/kharchenkolab/scLiTr)
 
-- 2022 – present
-- Development and curation of the package
-- Development and application of *clone2vec* algorithm
+- 2023 – present
 
 ## [symphonypy](https://github.com/potulabe/symphonypy)
 
 - 2022
 - Supervision of develoment (and co-development) of the package
-- Curation of the package
 
 # Publications
+
+## Melanocytes and photosensory organs share a common ancestry that illuminates the origins of the neural crest 
+- Yuliia Fatieieva, Rozalina Galimullina, ***Sergey Isaev***, et al.
+- *[Communications Biology 8 (1), 1092, 2025](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:roLk4NBRz8UC)*
 
 ## Positioning of sperm tail longitudinal columns depends on NSUN7, an RNA-binding protein destabilizing elongated spermatid transcripts 
 - Ekaterina A Guseva, Olga A Averina, ***Sergey V Isaev***, et al.
@@ -98,6 +103,11 @@ I'm doing a PhD in neuroscience at Igor Adameyko's lab at the Medical University
 - *[Frontiers in Genetics 10, 443, 2019](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:d1gkVwhDpl0C)*
 
 # Conferences
+
+## EMBO Workshop "Lineage tracing: Dynamics, cellular memory, and somatic evolution", Poster "Quantitative Analysis of Clonal Fate Biases"
+
+- Sept 2025
+- Girona, Spain
 
 ## 19th YSA PhD Symposium 2024, Oral presentation "Clonal embeddings"
 

@@ -586,17 +586,30 @@
 
 #two-col-entry(
   left-content: [
+    #link("https://github.com/serjisa/py-fastglmpca")[#strong[py-fastglmpca]]
+  ],
+  right-content: [
+    #emph[2025]
+  ],
+)
+#one-col-entry(
+  content: [
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [PyTorch implementation of fastglmpca algorithm])], column-gutter: 0cm)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
     #link("https://github.com/kharchenkolab/scLiTr")[#strong[scLiTr]]
   ],
   right-content: [
-    #emph[2022 – present]
+    #emph[2023 – present]
   ],
 )
 #one-col-entry(
   content: [
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Python package for single-cell Lineage Tracing analysis])], column-gutter: 0cm)
-
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Development and curation of the package],[Development and application of #emph[clone2vec] algorithm],)
   ],
 )
 
@@ -613,7 +626,7 @@
   content: [
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Port of Symphony algorithm of single-cell reference atlas mapping to Python])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Supervision of develoment \(and co-development\) of the package],[Curation of the package],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Supervision of develoment \(and co-development\) of the package],)
   ],
 )
 
@@ -621,6 +634,15 @@
 
 == Publications
 
+#one-col-entry(content:[
+  #strong[Melanocytes and photosensory organs share a common ancestry that illuminates the origins of the neural crest]
+
+  #v(-design-text-leading)
+  #v(design-highlights-top-margin);Yuliia Fatieieva, Rozalina Galimullina, #strong[#emph[Sergey Isaev]], et al.
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:roLk4NBRz8UC")[#emph[Communications Biology 8 \(1\), 1092, 2025]]])
+
+#v(design-entries-vertical-space-between-entries)
 #one-col-entry(content:[
   #strong[Positioning of sperm tail longitudinal columns depends on NSUN7, an RNA-binding protein destabilizing elongated spermatid transcripts]
 
@@ -696,6 +718,25 @@
 
 == Conferences
 
+#two-col-entry(
+  left-content: [
+    #strong[Poster \"Quantitative Analysis of Clonal Fate Biases\"]
+
+#emph[EMBO Workshop \"Lineage tracing: Dynamics, cellular memory, and somatic evolution\"]
+  ],
+  right-content: [
+    #emph[Girona, Spain]
+
+#emph[Sept 2025]
+  ],
+)
+#one-col-entry(
+  content: [
+    
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
     #strong[Oral presentation \"Clonal embeddings\"]
@@ -789,7 +830,7 @@
 )
 #one-col-entry(
   content: [
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Development and teaching of both theoretical and practical parts of the course at the Faculty of Bioengineering and Bioinformatics])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Development and teaching of both theoretical and practical parts of the course at the Faculty of Bioengineering and Bioinformatics and the Faculty of Biology])], column-gutter: 0cm)
   ],
 )
 

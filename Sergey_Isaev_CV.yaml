@@ -69,21 +69,28 @@ cv:
       highlights:
       - Comparative and functional genomics of non-model animals (Dicyemids, Orthonectids)
     packages:
+    - name: '[py-fastglmpca](https://github.com/serjisa/py-fastglmpca)'
+      date: 2025
+      summary: PyTorch implementation of fastglmpca algorithm
     - name: '[scLiTr](https://github.com/kharchenkolab/scLiTr)'
-      start_date: 2022
+      start_date: 2023
       end_date: present
       summary: Python package for single-cell Lineage Tracing analysis
-      highlights:
-      - Development and curation of the package
-      - Development and application of *clone2vec* algorithm
     - name: '[symphonypy](https://github.com/potulabe/symphonypy)'
       date: 2022
       summary: Port of Symphony algorithm of single-cell reference atlas mapping to
         Python
       highlights:
       - Supervision of develoment (and co-development) of the package
-      - Curation of the package
     publications:
+    - title: Melanocytes and photosensory organs share a common ancestry that illuminates
+        the origins of the neural crest
+      authors:
+      - Yuliia Fatieieva
+      - Rozalina Galimullina
+      - '***Sergey Isaev***'
+      - et al.
+      journal: '*[Communications Biology 8 (1), 1092, 2025](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:roLk4NBRz8UC)*'
     - title: Positioning of sperm tail longitudinal columns depends on NSUN7, an RNA-binding
         protein destabilizing elongated spermatid transcripts
       authors:
@@ -153,6 +160,10 @@ cv:
       - et al.
       journal: '*[Frontiers in Genetics 10, 443, 2019](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:d1gkVwhDpl0C)*'
     conferences:
+    - company: 'EMBO Workshop "Lineage tracing: Dynamics, cellular memory, and somatic evolution"'
+      position: Poster "Quantitative Analysis of Clonal Fate Biases"
+      location: Girona, Spain
+      date: 2025-09
     - company: 19th YSA PhD Symposium 2024
       position: Oral presentation "Clonal embeddings"
       location: Vienna, Austria
@@ -179,7 +190,7 @@ cv:
       start_date: 2022-09
       end_date: present
       summary: Development and teaching of both theoretical and practical parts of
-        the course at the Faculty of Bioengineering and Bioinformatics
+        the course at the Faculty of Bioengineering and Bioinformatics and the Faculty of Biology
     - company: Higher School of Economics
       position: NGS data analysis *(RNA-Seq part)*
       location: Moscow, Russia
