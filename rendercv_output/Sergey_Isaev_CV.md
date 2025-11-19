@@ -66,6 +66,10 @@ I'm doing a PhD in neuroscience at Igor Adameyko's lab at the Medical University
 
 # Publications
 
+## Mesenchymal thymic niche cells enable regeneration of the adult thymus and T cell immunity 
+- Karin Gustafsson, ***Sergey Isaev***, Kamdin Mirsanaye, et al.
+- *[Nature Biotechnology, 1-13, 2025](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:Se3iqnhoufwC)*
+
 ## Melanocytes and photosensory organs share a common ancestry that illuminates the origins of the neural crest 
 - Yuliia Fatieieva, Rozalina Galimullina, ***Sergey Isaev***, et al.
 - *[Communications Biology 8 (1), 1092, 2025](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:roLk4NBRz8UC)*
@@ -80,19 +84,15 @@ I'm doing a PhD in neuroscience at Igor Adameyko's lab at the Medical University
 
 ## Multi-omic profiling of follicular lymphoma reveals changes in tissue architecture and enhanced stromal remodeling in high-risk patients 
 - Andrea J Radtke*, Ekaterina Postovalova*, Arina Varlamova, ..., ***Sergey Isaev***, et al. *(\*equal contribution)*
-- *[Cancer cell 42 (3), 444-463. e10, 2024](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:YsMSGLbcyi4C)*
+- *[Cancer Cell 42 (3), 444-463. e10, 2024](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:YsMSGLbcyi4C)*
 
 ## Complex analysis of single-cell RNA sequencing data 
 - Anna A Khozyainova, Anna A Valyaeva, Mikhail S Arbatsky, ***Sergey V Isaev***, et al.
 - *[Biochemistry (Moscow) 88 (2), 231-252, 2023](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:W7OEmFMy1HYC)*
 
-## Thymic mesenchymal niche cells drive T cell immune regeneration 
-- Karin Gustafsson, ***Sergey Isaev***, Kameron A Kooshesh, et al.
-- *[bioRxiv, 2022.10. 12.511184, 2022](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:Y0pCki6q_DkC)*
-
 ## Follicular lymphoma microenvironment characteristics associated with tumor cell mutations and MHC class II expression 
 - Guangchun Han, Qing Deng, Mario L Marques-Piubelli, ..., ***Sergey Isaev***, et al.
-- *[Blood cancer discovery 3 (5), 428-443, 2022](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:IjCSPb-OGe4C)*
+- *[Blood Cancer Discovery 3 (5), 428-443, 2022](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:IjCSPb-OGe4C)*
 
 ## Multiregional single-cell proteogenomic analysis of ccRCC reveals cytokine drivers of intratumor spatial heterogeneity 
 - Natalia Miheecheva, Ekaterina Postovalova, Yang Lyu, ..., ***Sergey Isaev***, et al.

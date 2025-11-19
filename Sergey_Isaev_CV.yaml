@@ -83,6 +83,14 @@ cv:
       highlights:
       - Supervision of develoment (and co-development) of the package
     publications:
+    - title: Mesenchymal thymic niche cells enable regeneration of the adult thymus
+        and T cell immunity
+      authors:
+      - Karin Gustafsson
+      - '***Sergey Isaev***'
+      - Kamdin Mirsanaye
+      - et al.
+      journal: '*[Nature Biotechnology, 1-13, 2025](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:Se3iqnhoufwC)*'
     - title: Melanocytes and photosensory organs share a common ancestry that illuminates
         the origins of the neural crest
       authors:
@@ -116,7 +124,7 @@ cv:
       - '...'
       - '***Sergey Isaev***'
       - et al. *(\*equal contribution)*
-      journal: '*[Cancer cell 42 (3), 444-463. e10, 2024](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:YsMSGLbcyi4C)*'
+      journal: '*[Cancer Cell 42 (3), 444-463. e10, 2024](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:YsMSGLbcyi4C)*'
     - title: Complex analysis of single-cell RNA sequencing data
       authors:
       - Anna A Khozyainova
@@ -125,13 +133,6 @@ cv:
       - '***Sergey V Isaev***'
       - et al.
       journal: '*[Biochemistry (Moscow) 88 (2), 231-252, 2023](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:W7OEmFMy1HYC)*'
-    - title: Thymic mesenchymal niche cells drive T cell immune regeneration
-      authors:
-      - Karin Gustafsson
-      - '***Sergey Isaev***'
-      - Kameron A Kooshesh
-      - et al.
-      journal: '*[bioRxiv, 2022.10. 12.511184, 2022](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:Y0pCki6q_DkC)*'
     - title: Follicular lymphoma microenvironment characteristics associated with
         tumor cell mutations and MHC class II expression
       authors:
@@ -141,7 +142,7 @@ cv:
       - '...'
       - '***Sergey Isaev***'
       - et al.
-      journal: '*[Blood cancer discovery 3 (5), 428-443, 2022](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:IjCSPb-OGe4C)*'
+      journal: '*[Blood Cancer Discovery 3 (5), 428-443, 2022](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:IjCSPb-OGe4C)*'
     - title: Multiregional single-cell proteogenomic analysis of ccRCC reveals cytokine
         drivers of intratumor spatial heterogeneity
       authors:
@@ -160,7 +161,8 @@ cv:
       - et al.
       journal: '*[Frontiers in Genetics 10, 443, 2019](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:d1gkVwhDpl0C)*'
     conferences:
-    - company: 'EMBO Workshop "Lineage tracing: Dynamics, cellular memory, and somatic evolution"'
+    - company: 'EMBO Workshop "Lineage tracing: Dynamics, cellular memory, and somatic
+        evolution"'
       position: Poster "Quantitative Analysis of Clonal Fate Biases"
       location: Girona, Spain
       date: 2025-09
@@ -190,7 +192,8 @@ cv:
       start_date: 2022-09
       end_date: present
       summary: Development and teaching of both theoretical and practical parts of
-        the course at the Faculty of Bioengineering and Bioinformatics and the Faculty of Biology
+        the course at the Faculty of Bioengineering and Bioinformatics and the Faculty
+        of Biology
     - company: Higher School of Economics
       position: NGS data analysis *(RNA-Seq part)*
       location: Moscow, Russia

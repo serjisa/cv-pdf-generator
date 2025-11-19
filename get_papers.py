@@ -1,5 +1,5 @@
 import argparse
-from scholarly import scholarly
+from scholarly import scholarly, ProxyGenerator
 import numpy as np
 import yaml
 import requests
@@ -25,6 +25,8 @@ parser.add_argument("-id", "--google_scholar", help="Google Scholar ID",
                     default="fZlONS4AAAAJ")
 parser.add_argument("-na", "--n_authors", help="Number of leading authors",
                     default=3)
+parser.add_argument("-p", "--use_proxy", help="Use proxy to avoid bans",
+                    action="store_true")
 
 
 args = parser.parse_args()
@@ -36,6 +38,12 @@ with open(filename) as f:
 author_name = args.name
 n_authors = args.n_authors
 author_id = args.google_scholar
+
+if args.use_proxy:
+    pg = ProxyGenerator()
+    pg.FreeProxies()
+    scholarly.use_proxy(pg)
+
 author = scholarly.search_author_id(author_id, sortby="year")
 author = scholarly.fill(author, sections=["publications"], sortby="year")
 

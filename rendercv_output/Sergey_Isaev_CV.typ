@@ -635,6 +635,15 @@
 == Publications
 
 #one-col-entry(content:[
+  #strong[Mesenchymal thymic niche cells enable regeneration of the adult thymus and T cell immunity]
+
+  #v(-design-text-leading)
+  #v(design-highlights-top-margin);Karin Gustafsson, #strong[#emph[Sergey Isaev]], Kamdin Mirsanaye, et al.
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:Se3iqnhoufwC")[#emph[Nature Biotechnology, 1-13, 2025]]])
+
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(content:[
   #strong[Melanocytes and photosensory organs share a common ancestry that illuminates the origins of the neural crest]
 
   #v(-design-text-leading)
@@ -667,7 +676,7 @@
   #v(-design-text-leading)
   #v(design-highlights-top-margin);Andrea J Radtke#sym.ast.basic#h(0pt, weak: true) , Ekaterina Postovalova#sym.ast.basic#h(0pt, weak: true) , Arina Varlamova, ..., #strong[#emph[Sergey Isaev]], et al. #emph[\(#sym.ast.basic#h(0pt, weak: true) equal contribution\)]
 
-#v(design-highlights-top-margin - design-text-leading)#link("https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:YsMSGLbcyi4C")[#emph[Cancer cell 42 \(3\), 444-463. e10, 2024]]])
+#v(design-highlights-top-margin - design-text-leading)#link("https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:YsMSGLbcyi4C")[#emph[Cancer Cell 42 \(3\), 444-463. e10, 2024]]])
 
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(content:[
@@ -680,21 +689,12 @@
 
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(content:[
-  #strong[Thymic mesenchymal niche cells drive T cell immune regeneration]
-
-  #v(-design-text-leading)
-  #v(design-highlights-top-margin);Karin Gustafsson, #strong[#emph[Sergey Isaev]], Kameron A Kooshesh, et al.
-
-#v(design-highlights-top-margin - design-text-leading)#link("https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:Y0pCki6q_DkC")[#emph[bioRxiv, 2022.10. 12.511184, 2022]]])
-
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(content:[
   #strong[Follicular lymphoma microenvironment characteristics associated with tumor cell mutations and MHC class II expression]
 
   #v(-design-text-leading)
   #v(design-highlights-top-margin);Guangchun Han, Qing Deng, Mario L Marques-Piubelli, ..., #strong[#emph[Sergey Isaev]], et al.
 
-#v(design-highlights-top-margin - design-text-leading)#link("https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:IjCSPb-OGe4C")[#emph[Blood cancer discovery 3 \(5\), 428-443, 2022]]])
+#v(design-highlights-top-margin - design-text-leading)#link("https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fZlONS4AAAAJ&citation_for_view=fZlONS4AAAAJ:IjCSPb-OGe4C")[#emph[Blood Cancer Discovery 3 \(5\), 428-443, 2022]]])
 
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(content:[

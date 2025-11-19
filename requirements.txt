@@ -2,3 +2,5 @@ numpy
 pyyaml
 scholarly
 rendercv[full]
+free-proxy
+httpx==0.23.3
