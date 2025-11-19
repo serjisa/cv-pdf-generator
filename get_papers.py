@@ -39,18 +39,56 @@ author_name = args.name
 n_authors = args.n_authors
 author_id = args.google_scholar
 
-if args.use_proxy:
-    pg = ProxyGenerator()
-    pg.FreeProxies()
-    scholarly.use_proxy(pg)
+def set_new_proxy():
+    while True:
+        try:
+            print("Initializing ProxyGenerator...")
+            pg = ProxyGenerator()
+            print("Fetching FreeProxies...")
+            pg.FreeProxies()
+            print("Setting proxy...")
+            scholarly.use_proxy(pg)
+            return
+        except Exception as e:
+            print(f"Failed to set new proxy: {e}")
+            print("Retrying proxy setting...")
 
-author = scholarly.search_author_id(author_id, sortby="year")
-author = scholarly.fill(author, sections=["publications"], sortby="year")
+MAX_RETRIES = 5
+for i in range(MAX_RETRIES):
+    try:
+        if args.use_proxy:
+            set_new_proxy()
+
+        print(f"Searching for author ID: {author_id}")
+        author = scholarly.search_author_id(author_id, sortby="year")
+        print("Author found. Filling publications...")
+        author = scholarly.fill(author, sections=["publications"], sortby="year")
+        print("Publications filled.")
+        break
+    except Exception as e:
+        print(f"Attempt {i+1} failed: {e}")
+        if i == MAX_RETRIES - 1:
+            raise e
+        print("Retrying...")
 
 publications = []
 for pub in author["publications"]:
-    pub_filled = scholarly.fill(pub)
+    for i in range(MAX_RETRIES):
+        try:
+            pub_filled = scholarly.fill(pub)
+            break
+        except Exception as e:
+            print(f"Failed to fill publication (attempt {i+1}/{MAX_RETRIES}): {e}")
+            if args.use_proxy:
+                print("Refreshing proxy...")
+                set_new_proxy()
+            if i == MAX_RETRIES - 1:
+                print("Skipping this publication due to repeated failures.")
+                pub_filled = None
     
+    if pub_filled is None:
+        continue
+
     authors = pub_filled["bib"]["author"].split(" and ")
     title = pub_filled["bib"]["title"]
     journal = pub_filled["bib"]["citation"]
